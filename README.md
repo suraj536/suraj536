@@ -49,8 +49,10 @@ Aspiring Full-Stack Developer :
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote:
+<p align="center"><i>“Well begun is half done.” — Aristotle</i></p>
+
+
 
 ---
 
